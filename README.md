@@ -22,7 +22,7 @@ All contributors are asked to abide by the [code of conduct](codeofconduct.md).
 The design is an amalgam of Stormy's instructions and his notes on kite fishing (pages 10 & 95 of his book, [The Best Kite in the World](http://www.drachen.org/collections/best-kite-world)). Paper-like Tyvek has replaced plastic bags as the kite material, because it lays flat and doesn't need to be hemmed, speeding up kite assembly. Pre-cut dowels are used instead of straws for consistency, and the kite patterns are sized so that little or no cutting is needed. With the exception of the strapping tape, the kite components are recyclable or biodegradable.
 
 
-## MATERIALS:
+## materials
 
 * Type 10 Tyvek in white (1025D) or black. (1.25oz/yard). *From [Material Concepts](https://shop.materialconcepts.com/prodcat/tyvek-uncoated-graphics.asp)*
 * 3/4" artist tape. *From [Dick Blick](https://www.dickblick.com/products/artist-tape/)*
@@ -40,7 +40,7 @@ The design is an amalgam of Stormy's instructions and his notes on kite fishing 
 
 * Any 50lb string can be used for the bridle.
 
-## PATTERNS
+## patterns
 ![stormysled-pattern.svg](images/stormysled-pattern.svg)
 
 For workshops, I recommend transfering the kite pattern to a piece of cardboard. Cutting a half pattern on a folded piece of material is the best way to assure symmetry. 
@@ -53,7 +53,7 @@ For workshops, I recommend transfering the kite pattern to a piece of cardboard.
   * [15" version](15in-stormysled-half-pattern.pdf), [15" version tiled 8.5"x11"](15in-stormysled-half-pattern-85x11-tiled.pdf) (for Tyvek envelopes)
 * (If you want to change the pattern, the master pattern is [stormysled.dxf](stormysled.dxf), and is for the 3' high kite. It was created in [QCAD](https://qcad.org/en/).  
 
-## Assembly
+## assembly
 
 
 ![stormy sled with tape](images/stormysled-tape.svg)
@@ -74,7 +74,7 @@ For workshops, I recommend transfering the kite pattern to a piece of cardboard.
 
 Go fly your kite!
 
-## Kite storage
+## kite storage
 
 *Store your kite by folding and rolling it up with the bridle in the middle:*
 
