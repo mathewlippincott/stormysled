@@ -11,9 +11,9 @@ The design has been optimized for quick assembly in workshops and for easy decor
 
 You can contribute to this design by:
 
-* Replicating the kite and documenting your use of it. Please [reach out](http://headfullofair.com/contact) and share.
+* Replicating the kite and documenting your use of it. Please [reach out](https://headfullofair.com/contact) and share.
 * Forking this repository and improving the design documentation, or assembly instructions.
-* Adding your comments to [open issues in this repository](/issues).
+* Adding your comments to [open issues in this repository](issues).
 
 All contributors are asked to abide by the [code of conduct](codeofconduct.md).
 
