@@ -13,7 +13,7 @@ You can contribute to this design by:
 
 * Replicating the kite and documenting your use of it. Please [reach out](https://headfullofair.com/contact) and share.
 * Forking this repository and improving the design documentation, or assembly instructions.
-* Adding your comments to [open issues in this repository](issues).
+* Adding your comments to [open issues in this repository](https://github.com/mathewlippincott/stormysled/issues).
 
 All contributors are asked to abide by the [code of conduct](codeofconduct.md).
 
